@@ -18,7 +18,7 @@ You can download any version of the software...I am using version 15.1.0 for my 
 
 Vmware is not a free source, it will give a user 30 days free trial
 
-![Screenshot (32)](https://user-images.githubusercontent.com/33561960/94176352-99238900-feb5-11ea-998c-c3b97fee61e9.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/33561960/94176941-72198700-feb6-11ea-988e-ef7e5e2281e4.png)
 
 
 4. After downloading click on the software and install it to your pc.
