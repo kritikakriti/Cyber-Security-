@@ -22,4 +22,19 @@ Vmware is not a free source, it will give a user 30 days free trial
 
 
 4. After downloading click on the software and install it to your pc.
-5. Software asks for a licence key at list, simply skip it or you can buy the kwy as per your convenience.
+5. Software asks for a licence key at last, simply skip it or you can buy the kwy as per your convenience.
+
+## Kali Linux Download
+1. Go to (https://www.kali.org/downloads/) and download Kali Linux Vmware according to the bit configuration of your PC.
+
+File size is 2.2 GB for 64-bit and 1.8 Gb for 32-bit config.
+
+2. extract the vmware zip file
+
+## Run Kali Linux on Vmware
+1. Open the VMware workstation. The following window will open:
+
+![Screenshot (33)](https://user-images.githubusercontent.com/33561960/94179358-046f5a00-feba-11ea-981e-316855eb4cd2.png)
+
+2. Go to Open a virtual Machine->extracted files of Kali-Linux Vmware
+3. Then Power on this virtual Machine.
