@@ -1,7 +1,7 @@
 # Cyber-Security-Lab
 I am using Kali Linux platfrom to showcase the practicals as Kali linux itself comes with various pre-installed open source softwares.
 
-To run kali Linux in parellal with my windows pc I am using a Vmware workstation. 
+To run kali Linux in parallel with my windows pc I am using a Vmware workstation. 
 
 The installation guide for installing VMware workspace followed by Kali linux on your PC:
 # Contents
