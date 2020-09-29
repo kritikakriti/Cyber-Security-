@@ -41,5 +41,7 @@ File size is 2.2 GB for 64-bit and 1.8 Gb for 32-bit config.
 
 After Installation is done the final window will look something like this :
 
+![Screenshot (35)](https://user-images.githubusercontent.com/33561960/94582081-7a4c3a80-0299-11eb-8ce8-f2b336c51cf4.png)
+
 
 
