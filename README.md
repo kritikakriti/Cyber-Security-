@@ -38,3 +38,8 @@ File size is 2.2 GB for 64-bit and 1.8 Gb for 32-bit config.
 
 2. Go to Open a virtual Machine->extracted files of Kali-Linux Vmware
 3. Then Power on this virtual Machine.
+
+After Installation is done the final window will look something like this :
+
+
+
