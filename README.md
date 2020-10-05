@@ -1,5 +1,5 @@
 # Cyber-Security-Lab
-I am using Kali Linux platfrom to showcase the practicals as Kali linux itself comes with various pre-installed open source softwares.
+I am using Kali Linux platform to showcase the practicals as Kali linux itself comes with various pre-installed open source softwares.
 
 To run kali Linux in parallel with my windows pc I am using a Vmware workstation. 
 
@@ -21,8 +21,8 @@ Vmware is not a free source, it will give a user 30 days free trial
 ![Screenshot (32)](https://user-images.githubusercontent.com/33561960/94176941-72198700-feb6-11ea-988e-ef7e5e2281e4.png)
 
 
-4. After downloading click on the software and install it to your pc.
-5. Software asks for a licence key at last, simply skip it or you can buy the kwy as per your convenience.
+4. After downloading click on the .exe file and install it to your pc.
+5. Software asks for a licence key at last, simply skip it or you can buy the key as per your convenience.
 
 ## Kali Linux Download
 1. Go to (https://www.kali.org/downloads/) and download Kali Linux Vmware according to the bit configuration of your PC.
